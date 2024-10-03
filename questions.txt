@@ -1,0 +1,20 @@
+What is the output of the following Python code?@@print(2 + 3)|3|4|5|6|c
+What is the result of 2**3?|6|8|9|10|b
+What will be the output of the following Python code?@@x = 5@x += 1@print(x)|5|6|7|8|b
+Which of the following is not a keyword in Python?|while|then|with|if|b
+What will be the output of the following code?@@print(len([1, 2, 3, 4]))|1|2|3|4|d
+What is the output of the following Python code?@@x = "Python"@print(len(x * 5))|25|30|35|45|b
+What is the correct file extension for Python files?|.py|.pyt|.pt|.ptn|a
+What is the output of the following Python code?@@print(3 * 3 + 4)|10|13|31|36|b
+What is the result of the expression 9//2 in Python?|4.5|4|5|5.0|b
+What will be the output of the following Python code?@@x = 5@print(x + 5)|10|11|12|13|a
+What is the output of the following Python code?@x = "Python"@print(x+str(5))|Python|Python5|5|6|b
+What is the correct syntax for creating a function in Python?|function my_function():|def my_function():|define my_function():|func my_function():|b
+What will be the output of the following Python code?@list1 = [1, 2, 3]@list1.append(4)@print(list1)|[1, 2, 3, 4, 5]|[1, 2, 3, 4]|[2, 3, 4, 5]|[1, 2, 3]|b
+What is the output of the following Python code?@@x = 0@while x < 3:@    x += 1@print(x)|1|2|3|4|c
+Which of the following data types is mutable in Python?|int|float|list|tuple|c
+What will be the output of the following Python code?@@x = 1@y = 2@z = x + y@print(z)|0|1|2|3|d
+What is the correct way to check if a key exists in a dictionary in Python?|if key in dict:|if key.exists(dict):|if dict.has_key(key):|if dict.contains(key):|a
+What will be the output of the following Python code?@@x = 10@x *= 2@print(x)|10|20|30|40|b
+Which of the following is the correct way to comment multiple lines in Python?|/* This is a comment */|<!-- This is a comment -->|''' This is a comment '''|# This is a comment|c
+What is the output of the following Python code?@@print(14 % 7)|0|1|2|3|a
